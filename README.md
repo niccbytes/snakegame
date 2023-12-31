@@ -18,7 +18,11 @@ Welcome to the Snake Game! This is a simple implementation of the classic Snake 
  to git started (lol) follow the link downbelow provided by github pages and if you'd like to see my code i also attached my repo!
 
  ## links
- 
+ https://niccbytes.github.io/snakegame/
+
+ https://github.com/niccbytes/snakegame
+
+
 
 
 ## photo
